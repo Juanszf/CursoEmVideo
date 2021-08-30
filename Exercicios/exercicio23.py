@@ -1,3 +1,9 @@
+'''Faça um programa que leia do número 0 ao 9999 e mostre cada número na tela separado:
+Unidade:
+Dezena:
+Centana:
+Milhar: '''
+
 num = (input('Digite um número de 0 até 9999\n'))
 y=-1
 if num.isnumeric():
